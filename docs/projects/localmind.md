@@ -1,6 +1,8 @@
 # LocalMind
 
-[Conceptual cover artwork](../artwork/localmind.webp)
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
+[Conceptual cover artwork](../artwork.webp)
 
 LocalMind is a private, in-browser document assistant with semantic passage search, question answering, source citations and retrieval evaluation. The sample library contains original fictional infrastructure runbooks.
 
